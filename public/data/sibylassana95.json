@@ -1,0 +1,13 @@
+{
+  "name": "Lassana Siby",
+  "location": "Sénégal/Dakar",
+  "bio": "Développeur Full Stack et concepteur d'interface utilisateur (UI) passionné par la création d'expériences numériques exceptionnelles.",
+  "avatar": "https://github.com/sibylassana95.png",
+  "portfolio": "https://sibylassana.vercel.app/",
+  "skills": ["Python", "Django", "Java","Spring Boot","Angular","Html-Css-Js","Photoshop","Figma","Adobe XD","Mysql"],
+  "social": {
+    "GitHub": "https://github.com/sibylassana95",
+    "Twitter": "https://twitter.com/sibyog13",
+    "LinkedIn": "https://www.linkedin.com/in/sibylassana"
+  }
+}
